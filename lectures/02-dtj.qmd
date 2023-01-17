@@ -1,0 +1,226 @@
+---
+title: "Democracy and Technocracy"
+subtitle: "EVSS/PUBA 551: Research and Management in Environmental Organizations"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+# Course Introduction 
+
+## Course Information 
+
+**This course is required for students in the concurrent MES/MPA program and it is intended to be taken near the end of the program of study**
+
+_While this course counts for elective credit, it should be thought of as the only core course for concurrent MES/MPA students_
+
+::: {.notes}
+no laptops 
+:::
+
+## Course Information
+
+The central question of this course is, _how is information and expert knowledge used for decision-making within and across organizations that address environmental issues_?
+
+## Course Information
+
+### You should have had: 
+
+* PUBA 600: Foundations of Public Sector Management and Leadership
+
+* EVSS 601/PUBA 536: Economic Theory for Policy Analysis
+
+* PUBA 601: Research and Quantitative Methods for Public Administration
+
+* EVSS/PUBA 602: Public Policy
+
+* EVSS 611: Graduate Core Seminar
+
+* EVSS 632: Social Science Methods in Environmental Studies
+
+## Course Information
+
+**There are 450 points possible for this course** 
+
+**Assignment & Possible Points** 
+
+* Response papers (10): 200 points total 
+* Organizations and governance paper: 100 points 
+* Knowledge development and use paper: 100 points
+* Participation: 50 points
+
+## Course Information
+
+**Part I: Foundations**
+
+* Technocracy and Democracy
+
+* Evidence-Based Policymaking 
+
+* Information Processing 
+
+## Course Information 
+
+**Part II: Governance and Organizations** 
+
+* Governance
+
+* Organizations and Public Management
+
+* Government Agencies 
+
+* Nonprofits 
+
+## Course Information
+
+**Part III: Knowledge and Decision-Making** 
+
+* Science and Policymaking 
+
+* Policy Analysis
+
+* Benefit-Cost Analysis
+
+* Risk Analysis and Risk Perception 
+
+* Co-Production of Knowledge
+
+* Deliberative Democracy 
+
+# Week 1: Readings 
+
+## The "Iron Rule" 
+
+### How does science really work?
+
+::: {.incremental}
+* What is the iron rule of explanation?
+
+* What does the "iron rule" mean for bias in science? 
+:::
+
+## Three Logics of Decision-Making 
+
+![](img/logics.png)
+
+
+
+# Technocracy and Democracy 
+
+
+## 
+
+![](img/asimov.jpg)
+
+# Is expertise dead? 
+
+# How would you define technocracy? 
+
+## Technocracy 
+
+::: {.incremental}
+* A system of government characterized by high reliance on a small elite of technical experts, whose decisions about public policy are more influential than the desires of citizens [@birklandIntroductionPolicyProcess2020, 9]
+
+* Within the policy sciences themselves lurk dangerous elitist and technocratic tendencies towards decidedly undemocratic ends and means [@deleonDemocraticValuesPolicy1995, 888]
+
+* Advantages? Disadvantages? 
+:::
+
+## Technocracy Scale 
+
+* _Scientists and technically trained experts, not the public, should make decisions about the applications of advanced technologies to address energy needs and environmental concerns_ 
+
+* _Those who are better informed and knowledgeable should have greater influence in policymaking_ 
+
+* _Technical issues are so complex that most people cannot contribute to reasonable policy choices_ 
+
+-@nowlinPoliticalBeliefsViews2021
+
+## Technocracy
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/energyGraph.pdf)
+:::
+::: {.column}
+![](img/climateGraph.pdf)
+:::
+::::::::::::::
+
+# How is democracy doing in the US? 
+
+## Defining Democracy 
+
+::: {.incremental}
+* That all members [of a polity] are to be treated (under the constitution) as if they were equally qualified to participate in the process of making decisions about the policies [the polity] will pursue [@dahlDemocracy2015, 37]
+
+* A system of government with regular, free and fair elections, in which all adult citizens have the right to vote and possess basic civil liberties such as freedom of speech and association [@levitskyHowDemocracies2019, 6]
+
+* Two components: "political control,"  means that political power is actually exercised by the people, and only by the people. "political equality" means that in the exercise of that power, citizens are equals [@gilleyTechnocracyDemocracySpheres2017, 13]
+:::
+
+# Technocracy and Democracy and _Justice_ 
+
+# What is justice from a democratic perspective? 
+
+## Democratic Justice
+
+_A public policy is just from a democratic standpoint if it reflects a process in which all citizens, situated equally, or their duly elected representatives, have participated in the decision_ [@gilleyTechnocracyDemocracySpheres2017, 13]
+
+# What is justice from a technocratic perspective?
+
+## Technocratic Justice
+
+_... rooted in the principles of logical inquiry and rational choice. One way that technocracy is often expressed in the modern world is in the language of contemporary policy analysis. The norms and assumptions that define "good" policy from the policy analysis perspective can be easily identified: They should be feasible; evaluable; benefit more than they cost; be effective in addressing some problem; be reasonably certain of success; be well grounded in evidence; and be amenable to monitoring and evaluation_ [@gilleyTechnocracyDemocracySpheres2017, 13] 
+
+## Democracy and Technocracy 
+
+![](img/gilleyTab.png)
+
+
+# How would you balance democracy and technocracy? 
+
+# What are the three models of democratic expertise? 
+
+::: {.notes}
+ways in which expertise can be engaged
+:::
+
+## Democractic Expertise 
+
+::: {.incremental}
+* **Representative Expertise**: citizen-expert relationship mediated through representative institutions 
+
+* **Participatory Expertise**: citizens and experts interact directly through participatory processes
+
+* **Associative Expertise**: citizens and experts self-organize into groups 
+:::
+
+# Write down three take-aways from tonight 
+
+## Next Time
+
+**Evidence-Based Policymaking** 
+
+* _Readings_: 
+  * The Bipartisan Policy Center. _Evidence-Based Policymaking Primer_.
+  * **Cairney Blog**: [Evidence-Based Policymaking Resources](https://paulcairney.wordpress.com/ebpm/)
+  * Cairney, Paul. 2016. _The Politics of Evidence-Based Policy Making_. Basingstoke: Palgrave Macmillan.
+    * **Chapter 1**: read up to _The structure of the book_ section 
+    * **Chapter 2**
+    * **Chapter 4** 
+
+* **DUE**: Response paper 2
+
+## References 
+
+
+
+
+
+
+
