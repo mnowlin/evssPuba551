@@ -1,0 +1,229 @@
+---
+title: "Evidence-Based Policymaking"
+subtitle: "EVSS/PUBA 551: Research and Management in Environmental Organizations"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+## 
+
+![](img/plane2.jpg)
+
+# What is evidence-based policymaking? 
+
+## EBPM: Definitions
+
+::: {.incremental}
+* _Evidence-based policymaking is the process of using high-quality information to inform decisions that are made about government policies_ [@bipartisanpolicycenterEvidencedBasedPolicymakingPrimer2018, 3]
+
+* It involves: 
+  * Data collection 
+  * Data analysis 
+  * Evidence use 
+:::
+
+## EBPM: Cairney 
+
+### Two extreme views 
+
+::: {.incremental}
+* Naive EBPM
+  * _Direct and unproblematic link between scientific evidence, policy decisions and outcomes_ 
+
+* Policy based evidence 
+  * _Politics is so pathological that no decision is based on an appeal to scientific evidence if it gets in the way of politicians seeking election, or so messy that the evidence gets lost somewhere in the political process_ 
+
+* **How does Cairney define evidenced-based policymaking?**
+:::
+
+## EBPM: Definitions (Cairney)
+
+::: {.incremental}
+* Policy: 
+  * _the sum total of government action, from signals of intent to the final outcomes_ 
+
+* Policymakers: 
+  * Elected and unelected (official and unofficial) 
+  * Actors = individuals and/or organizations (a group of people making decisions collectively)
+  * Institutions (rules)
+
+* Evidence and scientific evidence: 
+  * Evidence is an argument or assertion backed by information
+  * Scientific evidence describes information produced in a particular way
+:::
+
+# How would an ideal (or optimal) policymaking system function? 
+
+## Ideal according to Cairney 
+
+::: {.incremental}
+1. The values of society are reflected in the values of policymakers 
+2. A small number of policymakers control the policy process from its center 
+3. Separate facts from values 
+4. Organizations are comprehensively rational 
+5. Policy is made in a linear way: e.g., stages 
+:::
+
+## What goes wrong? 
+
+::: {.incremental}
+* Any disconnect between evidence and policymaking is because of "politics" and _"allows us to blame politicians for general failure and explain specific successes with reference to exceptional individuals in the scientific profession"_ 
+:::
+
+## 
+
+![](img/fauci1.jpeg)
+
+![](img/fauci2.jpg)
+
+## What goes wrong? 
+
+::: {.incremental}
+* Supply of evidence 
+  * _Hierarchy of evidence_? 
+
+* Demands for evidence
+:::
+
+::: {.notes}
+**Problems with the supply of evidence** 
+
+* Experts have the same cognitive limits as everyone else (but the iron rule)
+* Communication requires simplification 
+* Hierarchy of evidence 
+* Not always a clear scientific consensus 
+	* disagreement among scholars * Dem*
+
+"the appearance of an evidence-policy gap is caused partly by a biased and romantic account of the supply of ‘the evidence’, in which scientists provide an objective account of a problem that cannot be ignored, and a consensus on how it should be solved. In practice, the evidence is contested, and the actors who identify problems may not be in a good position to supply the solutions."  
+
+**Demands for evidence** 
+
+* Policy actors may not pay attention or understand the "evidence" 
+	* for scientists evidence = research (the iron rule), but for policy actors evidence could be much broader, e.g., anecdotal  
+* Bounded rationality and the need to make quick decisions 
+	* competition for policymaker attention 
+	* evidence is one part of the narrative 
+
+appearance of an evidence-policy gap results from the focus of one type of EBPM; clear convincing evidence first and problematic policy actors "politics" result in it not being used 
+:::
+
+## EBPM and Policy Theory 
+
+::: {.incremental}
+* The psychology of policymaking
+  * How do you use information to make decisions? 
+
+* Policy environment 
+
+* Various policy theories 
+:::
+
+::: {.notes}
+**policy environment** 
+
+* wide range of actors in a fragmented system 
+* institutions: "rules, norms, practices and relationships that influence individual and collective behaviour" 
+* networks / subsystems 
+* ideas: policy solutions, values and beliefs, persuasion 
+* context and events 
+:::
+
+# Theories of the Policy Process 
+
+::: {.notes}
+Drawing on what you learned in EVSS/PUBA 602: Public Policy, describe at least one of the major theories or frameworks of the policy process (be sure and include and cite at least one source beyond the readings for this class) in about a paragraph. In one or two paragraphs describe how that theory or framework addresses the use of evidence in policymaking.   
+:::
+
+## Theories of the Policy Process
+
+* Multiple Streams Approach 
+* Punctuated Equilibrium Theory
+* The Social Construction of Target Populations
+* The Narrative Policy Framework
+* The Advocacy Coalition Framework
+* _Studies of policy transfer, diffusion and learning_ 
+* _Complexity theory and complex systems_
+
+## Policy-Oriented Learning  
+
+_Enduring alterations of thought or behavioral intentions that result from experience and which are concerned with the attainment or revision of the precepts of the belief systems of individuals or of collectives_ [@sabatierPolicyChangeLearning1993, 42]
+
+::: {.incremental}
+* Belief systems in the Advocacy Coalition Framework (ACF) 
+  * Deep core $\rightarrow$ Policy core $\rightarrow$ Secondary aspects 
+:::
+
+## Policy Learning 
+
+![](img/learning.png)
+-@dunlopDoesPolicyLearning2018
+
+## Conditions needed to minimize evidence-policy gap
+
+::: {.incremental}
+* It is possible to produce a scientific consensus based on an objective and comprehensive account of the relevant evidence
+* The policy process is centralized and power is held by a small number of policymakers
+* Scientific evidence is the sole source of knowledge for policymakers
+:::
+
+## Conditions needed to minimize evidence-policy gap
+
+::: {.incremental}
+* Policymakers understand the evidence in the same way as scientists
+* Policymakers have the motive and opportunity to turn the evidence into a solution that is consistent with, and a proportionate response to, the policy problem
+:::
+
+## In the real world ... 
+
+::: {.incremental}
+* Even if the evidence exists, it doesn't tell you what to do 
+
+* Demand for evidence does not match the supply 
+
+* Policymakers make choices in a complex policymaking system in which the role of evidence is not always clear 
+:::
+
+# What are some of the barriers associated with evidence-based policymaking? 
+
+
+## Barriers
+
+::: {.incremental}
+* Current evidence on the nature of environmental problems, or the effectiveness of policy solutions, is often patchy
+* The evidence is not ‘packaged’ well. It needs to be easier to understand, ‘framed’ in a way that is attractive to policymakers, and/ or accompanied by realistic expectations for policy change
+:::
+
+## Barriers
+
+::: {.incremental}
+* Scientists do not engage well with policymakers, either in networks, academic-practitioner forums, or by using ‘**_knowledge brokers_**’
+* Broad differences in academic-policymaking cultures undermine the ability of scientists to engage in politics in a timely manner, or in a way that will maximize the impact of their findings
+:::
+
+# Is evidence-based policymaking a worthy goal? What "counts" as evidence?  
+
+# Write down three take-aways from tonight 
+
+## Next Time 
+
+**Information Processing**
+
+* _Readings_:
+  * Workman, Samuel, Bryan D. Jones, and Ashley E. Jochim. 2009. “Information Processing and Policy Dynamics.” *Policy Studies Journal* 37(1): 75–92.
+  * Jones, Bryan D. 2017. “Behavioral Rationality as a Foundation for Public Policy Studies.” *Cognitive Systems Research* 43: 63–75.
+  * Maor, Moshe, Jale Tosun, and Andrew Jordan. 2017. “Proportionate and Disproportionate Policy Responses to Climate Change: Core Concepts and Empirical Applications.” *Journal of Environmental Policy & Planning* 19(6): 599–611.
+
+* **DUE**: Response paper 3
+
+## References
+
+
+
+
+
+
