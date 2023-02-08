@@ -1,0 +1,116 @@
+---
+title: "Goverance"
+subtitle: "EVSS/PUBA 551: Research and Management in Environmental Organizations"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+
+# What is governance? 
+
+## Governance Definitions
+
+_Governance generally refers to the means for achieving direction, control, and coordination of wholly or partially autonomous individuals or organizations on behalf of interests to which they jointly contribute_
+
+-@lynnStudyingGovernancePublic2000, 235 
+
+## Public Governance 
+
+_Governance is constituted by the tasks the state performs for its citizens and the institutions that incentivize the performance of those tasks_  
+
+-@bertelliPoliticalEconomyPublic2012, 4
+
+## Public Governance
+
+_Governance is the regimes of laws, administrative rules, judicial rulings, and practices that constrain, prescribe, and enable government activity, where such activity is broadly defined as the production and delivery of publicly supported goods and services_ 
+
+--@lynnStudyingGovernancePublic2000, 235 
+
+## Theories of Governance
+
+* Polycentricity
+* Network governance 
+* Collective action theory 
+* Governmentality/environmentality 
+* Multilevel goverance theory 
+* Interactive governance theory 
+* Adaptive governance 
+* Evolutionary governance theory 
+
+## Collabortive Governance
+
+_A governing arrangement where one or more public agencies directly engage non-state stakeholders in a collective decision-making process that is formal, consensus-oriented, and deliberative and that aims to make or implement public policy or manage public programs or assets._
+
+-@ansellCollaborativeGovernanceTheory2008, 544
+
+
+## Collabortive Governance
+
+_The processes and structures of public policy decision making and management that engage people constructively across the boundaries of public agencies, levels of government, and/or the public, private and civic spheres in order to carry out a public purpose that could not otherwise be accomplished_
+
+-@emersonIntegrativeFrameworkCollaborative2012, 2
+
+
+## Collaborative Governance 
+
+![](img/collab-gov.png)
+
+## Social-Ecological Systems Framework 
+
+![](img/ses.jpg)
+
+
+
+## Social-Ecological Systems Framework
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/ses-tier2-v2.png)
+:::
+::: {.column}
+![](img/ses-tier2-toc.png)
+:::
+::::::::::::::
+
+## Social-Ecological Systems Framework
+
+![](img/ses-coastal.png)
+
+::: {.notes}
+from @partelowEnvironmentalGovernanceTheories2020
+:::
+
+## Social-Ecological Systems Framework 
+
+**Governance systems** 
+
+* Government organizations 
+* Nongovernment organizations 
+* Network structure 
+* Property-rights systems 
+* Operational rules 
+* Collective-choice rules 
+* Constitutional rules 
+* Monitoring and sanctioning processes 
+ 
+# Let's talk about your projects 
+
+## Next Time 
+
+**Organizations and Public Management**
+
+* **GUEST SPEAKER**: Katharine Gerling 
+
+* _Readings_: 
+  * Jones, Bryan D., Graeme Boushey, and Samuel Workman. 2006. “Behavioral Rationality and the Policy Processes: Toward A New Model of Organizational Information Processing.” In *Handbook of Public Policy*, eds. B. Guy Peters and Jon Pierre. London: SAGE Publications, 49–74.
+  * Bourrier, Mathilde. 2011. “The Legacy of the High Reliability Organization Project.” *Journal of Contingencies and Crisis Management* 19(1): 9–13.
+  * O’Toole, Laurence J., and Kenneth J. Meier. 2015. “Public Management, Context, and Performance: In Quest of a More General Theory.” _Journal of Public Administration Research and Theory_ 25(1): 237–56.
+* **DUE**: Response paper 5
+
+## References
+
