@@ -1,0 +1,160 @@
+---
+title: "Information Processing"
+subtitle: "EVSS/PUBA 551: Research and Management in Environmental Organizations"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+
+## MPA Director Candidates 
+
+### Eunice Akoto 
+
+* **Monday, February 6 at 5:30pm, Riley Center** 
+
+### Michael Craw 
+
+* **Wednesday, February 8 at 5:30pm, Riley Center**
+
+### Michael Potter 
+
+* **Monday, February 13 at 5:30pm, Riley Center** 
+
+
+# Quick Refresher: Punctuated Equilibruim Theory 
+
+
+# Briefly explain the information processing theory of policy dynamics 
+
+
+## Information Processing 
+
+::: {.incremental}
+* What is information?
+
+* Prioritization and supply 
+
+* Issues 
+
+* Institutions and jurisdiction
+
+* Delegation 
+:::
+ 
+# Policy Learning 
+
+## Policy-Oriented Learning  
+
+_Enduring alterations of thought or behavioral intentions that result from experience and which are concerned with the attainment or revision of the precepts of the belief systems of individuals or of collectives_ [@sabatierPolicyChangeLearning1993, 42]
+
+::: {.incremental}
+* Belief systems in the Advocacy Coalition Framework (ACF) 
+  * Deep core $\rightarrow$ Policy core $\rightarrow$ Secondary aspects 
+:::
+
+## Policy Learning 
+
+![](img/learning.png) 
+
+-@dunlopDoesPolicyLearning2018
+
+
+## Policy Learning and Information Processing
+
+:::::::::::::: {.columns}
+::: {.column}
+* Learning occurs as prior beliefs shift in the direction of the information
+
+* Learning is a function of the strength of the prior belief and the weight of the information 
+:::
+::: {.column}
+![](img/fig1.png)
+:::
+::::::::::::::
+
+-@nowlinPolicyLearningInformation2021
+
+## Policy Learning and Information Processing
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/fig3.png)
+:::
+::: {.column}
+![](img/fig4.png)
+:::
+::::::::::::::
+
+-@nowlinPolicyLearningInformation2021
+
+# Two major insights in the Jones 2017 article
+
+## Behavioral Rationality  
+
+::: {.incremental}
+* Comprehensive rationality 
+
+* Bounded rationality 
+
+* Behavioral organization theory 
+
+* Problem space and solution space 
+
+* Disproportionate information processing
+:::
+
+## Behavioral Rationality 
+
+1. _Actors are behaviorally rational_ 
+
+2. _Different dynamics can influence the problem space–understanding of the problem faced–and the solution space–the search and specification of alternatives to address that problem_ 
+
+3. _The role of selective attention is critical in both problem definition and solution search_
+
+4. _Emotional arousal is a dual-edged sword—it is critical in shifting the focus of attention, but it is also an essential component of cognition and hence reason_ 
+
+-@jonesBehavioralRationalityFoundation2017, 73
+
+
+# What is meant by “disproportionate policy response” 
+
+## Policy Response 
+
+::: {.incremental}
+* Proportionate vs disproportionate policy response 
+
+* Factors that lead to a disproportionate policy response 
+
+* Elements of policy design 
+
+* Climate policy
+:::
+
+# What connections can we make between technocracy and democracy; evidenced-based policymaking; and information processing? 
+
+::: {.notes}
+delegation of information processing disrupts the demo - end; tech-means idea
+:::
+
+# Write down three take-aways from tonight 
+
+
+## For Next Time 
+
+### MEET AT THE RILEY CENTER AT 5:30 PM 
+
+**Governance** 
+
+* _Readings_:
+  * Partelow, Stefan et al. 2020. “Environmental Governance Theories: A Review and Application to Coastal Systems.” _Ecology and Society_ 25(4).
+  * Emerson, Kirk, Tina Nabatchi, and Stephen Balogh. 2012. “An Integrative Framework for Collaborative Governance.” *Journal of Public Administration Research and Theory* 22(1): 1–29.
+  * Ostrom, Elinor. 2009. “A General Framework for Analyzing Sustainability of Social-Ecological Systems.” _Science_ 325(5939): 419–22.
+
+* **DUE**: Response paper 4
+
+## References 
+
