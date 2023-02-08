@@ -13,7 +13,7 @@ format:
 
 # What is governance? 
 
-## Governance Definitions
+## Governance Definition
 
 _Governance generally refers to the means for achieving direction, control, and coordination of wholly or partially autonomous individuals or organizations on behalf of interests to which they jointly contribute_
 
