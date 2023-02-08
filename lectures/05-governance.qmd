@@ -1,5 +1,5 @@
 ---
-title: "Goverance"
+title: "Governance"
 subtitle: "EVSS/PUBA 551: Research and Management in Environmental Organizations"
 date: "Spring 2023"
 bibliography: /Users/nowlinmc/Dropbox/refs.bib
